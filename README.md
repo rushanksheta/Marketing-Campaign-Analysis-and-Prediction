@@ -1,5 +1,5 @@
 # Marketing Campaign Analysis and Prediction
-
+### Project for course - B565 Data Mining
 Team members: 
 <br>
 Pandya Harsh Maheshkumar, Reddy Charan Pulivendula, Sheta Rushank Ghanshyam
