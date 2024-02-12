@@ -40,4 +40,4 @@ Classification models, including Logistic Regression, Random Forest, AdaBoost, a
 
 The project concludes with the identification of effective classification models for predicting customer responses in marketing campaigns. Future scope includes the need for more diverse and relevant data sources to build a more generalized model that can be applied across different product categories.
 
-Feel free to explore the detailed analysis and findings in the project report and code files. For any inquiries, please contact the project team.
+Feel free to explore the detailed analysis and findings in the [project report](https://github.com/rushanksheta/Marketing-Campaign-Analysis-and-Prediction/blob/main/Final%20Report.docx.pdf) and code files.
